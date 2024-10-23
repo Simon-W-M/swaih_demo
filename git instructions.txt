@@ -1,0 +1,13 @@
+Make a folder - UCR 
+
+Clone the SW Template
+
+Look at the ReadMe
+
+Look at the Check List
+
+Move my files into the folder
+
+Add my personal_creds.R to gitignore
+
+Sync the folder
